@@ -1,7 +1,10 @@
 # BB8
 Movie Recommendation System 
+
 R. sivarjun (19471A05B5)
+
 K. Siva Rama Krishna.  (19471A0589)
+
 In our day-to-day life, we are going to use many applications on our mobile. For example, consider the application flip kart, When are searched for an item in that application it will show similar items to your search. Even if you close that particular application it will send you a notification about similar items on your search again and again. Like this, there are many applications we are going to use in our daily life which recommends our favorite products. That means the recommendations are possible only when there is data about a user. Therefore, large organizations collect data from different users in multiple actions. Here, the data is stored in various formats. From that data, the organizations will recommend or predict what the user like most. How to recommend something? Mainly there are three ways to recommend something [5, 12]. 
 Those are:
 Content-Based Recommendations
